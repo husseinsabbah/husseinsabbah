@@ -1,0 +1,11 @@
+-Definiton for the admin: Hello everyone, I'am Hasan Radi, and I want to describe how the Admin Panel work in our website.
+typically an amdin is a user with admin role, needs to login first.
+
+
+-View All Tickets:
+-View All and Search movies:  Here the initial page where we can see and controle all the movies, 
+
+-View Tickets Movies:
+-Add movie:
+-Edit Movie:
+-View All Users:
